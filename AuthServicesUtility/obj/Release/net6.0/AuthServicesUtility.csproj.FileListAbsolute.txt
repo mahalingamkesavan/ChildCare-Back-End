@@ -1,0 +1,12 @@
+D:\childcareback_end_crud\AuthServicesUtility\bin\Release\net6.0\AuthServicesUtility.deps.json
+D:\childcareback_end_crud\AuthServicesUtility\bin\Release\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\bin\Release\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.AssemblyInfo.cs
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\refint\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\AuthServicesUtility\obj\Release\net6.0\ref\AuthServicesUtility.dll

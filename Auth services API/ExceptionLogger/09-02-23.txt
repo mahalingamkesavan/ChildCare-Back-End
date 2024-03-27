@@ -1,0 +1,140 @@
+-----------Exception Details on  09-02-2023 10:22:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 10:22:15
+
+Error Line No : line 60
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 17:16:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 17:16:00
+
+Error Line No : line 24
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 17:16:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 17:16:37
+
+Error Line No : line 24
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 17:23:49-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 17:23:49
+
+Error Line No : line 24
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 22:50:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 22:50:41
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 22:50:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 22:50:48
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  09-02-2023 22:50:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 09-02-2023 22:50:50
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuthservicesDAL\AuthservicesDAL.csproj" />
+    <ProjectReference Include="..\Model\businessServices.csproj" />
+    <ProjectReference Include="..\Model\businessServicess.csproj" />
+  </ItemGroup>
+
+</Project>

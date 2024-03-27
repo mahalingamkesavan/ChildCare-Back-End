@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxHqtyjE+NEeu6U6aEn1xTAAAAAACAAAAAAAQZgAAAAEAACAAAADSD6WQFzFJMGpgJU3pktd7ZBI0EqKaHjCwP8Q8vwL9NQAAAAAOgAAAAAIAACAAAADa9ZcF8Td3HP9yaxk+ySmH4nzHX3yKsBAW1Eo2BN2A5oAAAABG6gEc/rR8lQCo8gtH0dHwwNo9xBH0QG0+iaQfzphVt1hOZ5PqqnUceA0CLYAe6apFeKxCuC14JkJ5K4RVD5e6tY3E7quZfpScSJq6+ZYfaktiF9aNQRY+3vUpWGcAjumuz4hpLOJnFZ7g3sCXSabyb75SwbfKRKk1UaOuVtDh4EAAAADFy59i51ayGpi2BC6J7AzolFBh+HSdN9yQ3KccfcM6xtl7pOJt6PRzBZ+uI4b3lcFmKurHRNhVLi0VzDcYexLJ</EncryptedPassword>
+    <History>True|2023-04-26T06:49:05.8253718Z;True|2023-04-26T11:00:22.8976953+05:30;True|2023-04-25T20:42:54.2510979+05:30;True|2023-04-25T12:12:29.9347499+05:30;True|2023-04-25T10:58:19.4995816+05:30;True|2023-04-25T09:52:09.3304808+05:30;True|2023-04-25T09:48:23.1066347+05:30;False|2023-04-25T09:46:31.9596992+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="constr">
+      <Value>server=mydemoserver-mysql.mysql.database.azure.com%3bPort=3306%3buserid=Mahalingam%3bpassword=BalaRaj%40123456%3bdatabase= training%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+D:\Entity Framework\IdentityAuthServicesAPI\Model\bin\Release\net6.0\businessServicess.deps.json
+D:\Entity Framework\IdentityAuthServicesAPI\Model\bin\Release\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\Model\bin\Release\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.csproj.AssemblyReference.cache
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.AssemblyInfoInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.AssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.csproj.CoreCompileInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\refint\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\Model\obj\Release\net6.0\ref\businessServicess.dll
+D:\childcareback_end_crud\Business service DTO's\bin\Release\net6.0\businessServicess.deps.json
+D:\childcareback_end_crud\Business service DTO's\bin\Release\net6.0\businessServicess.dll
+D:\childcareback_end_crud\Business service DTO's\bin\Release\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.AssemblyInfo.cs
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.dll
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\refint\businessServicess.dll
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\Business service DTO's\obj\Release\net6.0\ref\businessServicess.dll

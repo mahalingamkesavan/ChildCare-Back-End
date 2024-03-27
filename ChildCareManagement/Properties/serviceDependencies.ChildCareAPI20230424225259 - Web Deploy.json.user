@@ -1,0 +1,30 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "ChildCareAPI20230424225259.subscriptionId": {
+      "Name": "ChildCareAPI20230424225259.subscriptionId",
+      "Type": "subscription",
+      "Value": "3f97fb24-53a4-483c-ac11-8eb162461b74"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "3f97fb24-53a4-483c-ac11-8eb162461b74"
+    },
+    "ChildCareAPI20230424225259.resourceName": {
+      "Name": "ChildCareAPI20230424225259.resourceName",
+      "Type": null,
+      "Value": "ChildCareAPI20230424225259"
+    },
+    "ChildCareAPI20230424225259.resourceGroupLocation": {
+      "Name": "ChildCareAPI20230424225259.resourceGroupLocation",
+      "Type": null,
+      "Value": "centralindia"
+    },
+    "ChildCareAPI20230424225259.resourceGroupName": {
+      "Name": "ChildCareAPI20230424225259.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "child-care-management-system"
+    }
+  }
+}

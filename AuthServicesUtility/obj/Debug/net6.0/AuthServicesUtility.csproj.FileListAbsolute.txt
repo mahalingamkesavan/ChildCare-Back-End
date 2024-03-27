@@ -1,0 +1,24 @@
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.deps.json
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.csproj.AssemblyReference.cache
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.AssemblyInfoInputs.cache
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.AssemblyInfo.cs
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.csproj.CoreCompileInputs.cache
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.dll
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\refint\AuthServicesUtility.dll
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.pdb
+D:\Entity Framework\ChildCareManagement\AuthServicesUtility\obj\Debug\net6.0\ref\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.deps.json
+D:\childcareback_end_crud\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.AssemblyInfo.cs
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\refint\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\AuthServicesUtility\obj\Debug\net6.0\ref\AuthServicesUtility.dll

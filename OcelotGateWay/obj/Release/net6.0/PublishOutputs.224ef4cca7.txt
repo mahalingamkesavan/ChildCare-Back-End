@@ -1,0 +1,16 @@
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\OcelotGateWay.exe
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Ocelot.json
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\OcelotGateWay.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\OcelotGateWay.deps.json
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\OcelotGateWay.runtimeconfig.json
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\OcelotGateWay.pdb
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\FluentValidation.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\childcareback_end_crud\OcelotGateWay\obj\Release\net6.0\PubTmp\Out\Ocelot.dll

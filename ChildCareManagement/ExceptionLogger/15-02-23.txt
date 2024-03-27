@@ -1,0 +1,160 @@
+-----------Exception Details on  15-02-2023 17:39:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:39:48
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:39:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:39:50
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:40:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:40:00
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:40:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:40:03
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:41:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:41:03
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:41:25-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:41:25
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:41:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:41:32
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-02-2023 17:41:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-02-2023 17:41:37
+
+Error Line No : line 72
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

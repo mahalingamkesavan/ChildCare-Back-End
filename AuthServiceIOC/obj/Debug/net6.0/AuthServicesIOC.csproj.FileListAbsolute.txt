@@ -1,0 +1,44 @@
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.deps.json
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesBAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthservicesDAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\ChildCareUtility.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesBAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthservicesDAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\bin\Debug\net6.0\ChildCareUtility.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.AssemblyReference.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.AssemblyInfoInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.AssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.CoreCompileInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.CopyComplete
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\refint\AuthServicesIOC.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServiceIOC\obj\Debug\net6.0\ref\AuthServicesIOC.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.deps.json
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesIOC.pdb
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesBAL.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthservicesDAL.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\businessServicess.dll
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesBAL.pdb
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthservicesDAL.pdb
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\AuthServiceIOC\bin\Debug\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.AssemblyInfo.cs
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.csproj.CopyComplete
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.dll
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\refint\AuthServicesIOC.dll
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\AuthServicesIOC.pdb
+D:\childcareback_end_crud\AuthServiceIOC\obj\Debug\net6.0\ref\AuthServicesIOC.dll

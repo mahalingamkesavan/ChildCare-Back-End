@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\childcareback_end_crud\ChildCareManagement\obj\Release\net6.0\win-x64\PubTmp\Out\" />
+  <dbfullsql path="D:\childcareback_end_crud\ChildCareManagement\obj\Release\net6.0\win-x64\PubTmp\EFSQLScripts\ChildCareDAL.DBcontext.ApplicationDbContext.sql" />
+</sitemanifest>

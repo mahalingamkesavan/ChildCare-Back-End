@@ -1,0 +1,38 @@
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.deps.json
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.pdb
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\businessServicess.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareDAL.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareUtility.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareUtility.pdb
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\businessServicess.pdb
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\bin\Release\net6.0\ChildCareDAL.pdb
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.AssemblyReference.cache
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.AssemblyInfoInputs.cache
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.AssemblyInfo.cs
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.CoreCompileInputs.cache
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.CopyComplete
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\refint\ChildCareBAL.dll
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.pdb
+D:\Entity Framework\ChildCareManagement\ChildCareBAL\obj\Release\net6.0\ref\ChildCareBAL.dll
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.deps.json
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.dll
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareBAL.pdb
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\businessServicess.dll
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareDAL.dll
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareUtility.dll
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareDAL.pdb
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\ChildCareUtility.pdb
+D:\childcareback_end_crud\ChildCareBAL\bin\Release\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.AssemblyInfo.cs
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.csproj.CopyComplete
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.dll
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\refint\ChildCareBAL.dll
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ChildCareBAL.pdb
+D:\childcareback_end_crud\ChildCareBAL\obj\Release\net6.0\ref\ChildCareBAL.dll

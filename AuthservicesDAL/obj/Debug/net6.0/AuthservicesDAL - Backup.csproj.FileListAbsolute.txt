@@ -1,0 +1,17 @@
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\AuthservicesDAL - Backup.deps.json
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\AuthservicesDAL - Backup.runtimeconfig.json
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\AuthservicesDAL - Backup.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\AuthservicesDAL - Backup.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\bin\Debug\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.csproj.AssemblyReference.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.AssemblyInfoInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.AssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.csproj.CoreCompileInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.csproj.CopyComplete
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\refint\AuthservicesDAL - Backup.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\AuthservicesDAL - Backup.genruntimeconfig.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthservicesDAL\obj\Debug\net6.0\ref\AuthservicesDAL - Backup.dll

@@ -1,0 +1,60 @@
+-----------Exception Details on  16-02-2023 23:12:40-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16-02-2023 23:12:40
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16-02-2023 23:55:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16-02-2023 23:55:10
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16-02-2023 23:59:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16-02-2023 23:59:43
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

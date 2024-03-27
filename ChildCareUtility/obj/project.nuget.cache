@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3oLxF+BvF7NdP/P211qpHjiOMVVuO89aJ2866zxk2PURnX8Vg+WdQ2y1Xp+Fz1zPeTkQ57z4otQYMbH02kM3A==",
+  "success": true,
+  "projectFilePath": "D:\\childcareback_end_crud\\ChildCareUtility\\ChildCareUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\mahalingam_k.BLR\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

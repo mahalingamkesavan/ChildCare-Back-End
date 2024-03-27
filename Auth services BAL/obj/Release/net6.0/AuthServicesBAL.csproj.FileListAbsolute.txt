@@ -1,0 +1,38 @@
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthServicesBAL.deps.json
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthServicesBAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthServicesBAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthservicesDAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthServicesUtility.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthServicesUtility.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\AuthservicesDAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\bin\Release\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.csproj.AssemblyReference.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.AssemblyInfoInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.AssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.csproj.CoreCompileInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.csproj.CopyComplete
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\refint\AuthServicesBAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\AuthServicesBAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\AuthServicesBAL\obj\Release\net6.0\ref\AuthServicesBAL.dll
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthServicesBAL.deps.json
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthServicesBAL.dll
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthServicesBAL.pdb
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthservicesDAL.dll
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\businessServicess.dll
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthservicesDAL.pdb
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\Auth services BAL\bin\Release\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.AssemblyInfo.cs
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.csproj.CopyComplete
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.dll
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\refint\AuthServicesBAL.dll
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\AuthServicesBAL.pdb
+D:\childcareback_end_crud\Auth services BAL\obj\Release\net6.0\ref\AuthServicesBAL.dll

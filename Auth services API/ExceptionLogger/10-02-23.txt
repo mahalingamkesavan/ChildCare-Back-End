@@ -1,0 +1,40 @@
+-----------Exception Details on  10-02-2023 17:14:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 17:14:41
+
+Error Line No : line 24
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10-02-2023 17:15:14-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10-02-2023 17:15:14
+
+Error Line No : line 24
+
+Error Message: DbUpdateException
+
+Exception Type: Microsoft.EntityFrameworkCore.DbUpdateException
+
+Error Location : An error occurred while saving the entity changes. See the inner exception for details.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

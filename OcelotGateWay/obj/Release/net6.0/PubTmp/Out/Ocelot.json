@@ -1,0 +1,470 @@
+
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://cms-gateway.azurewebsites.net"
+  },
+  "Routes": [
+
+    //Auth api links it is authentication process all api
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/login",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Account/login",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+
+    }, //login
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/GetUserProfile",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Account/GetUserProfile",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //user profile
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/Register-user",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Account/Register-user",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // User Register
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/Register-Employee",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Account/Register-Employee",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Sub-Admin Register
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/register-admin",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Account/register-admin",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Admin Register
+
+    {
+      "UpstreamPathTemplate": "/gateway/Account/ResertPassword",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/Account/ResertPassword",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "authservicesapi20230424173637.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Resert Password
+
+
+    // parent api links ,it is parents CRUD operations and all api links
+
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/RegistrationParent",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Parent/RegistrationParent",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //register parent
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/GetParentList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Parent/GetParentList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get perent list
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/UpdateParentById",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/Parent/UpdateParentById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // update parent
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/DeleteParentById",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamPathTemplate": "/Parent/DeleteParentById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //delete parent
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/GetParendById",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Parent/GetParendById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //Get parent by id
+
+    {
+      "UpstreamPathTemplate": "/gateway/Parent/ParentProfile",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Parent/ParentProfile",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //Get parent profile by login name
+
+
+    // child api links ,  it is all child CRUD operations and and all api links
+
+
+    {
+      "UpstreamPathTemplate": "/gateway/Child/RegistrationChild",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Child/RegistrationChild",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //register child
+
+    {
+      "UpstreamPathTemplate": "/gateway/Child/GetChildById",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Child/GetChildById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //Get child by id
+
+    {
+      "UpstreamPathTemplate": "/gateway/Child/GetChildList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Child/GetChildList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get child list
+
+    {
+      "UpstreamPathTemplate": "/gateway/Child/UpdateChildById",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/Child/UpdateChildById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // update child
+
+    {
+      "UpstreamPathTemplate": "/gateway/Child/DeleteChildById",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamPathTemplate": "/Child/DeleteChildById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //delete child
+
+
+    // Enrollment  api links , it is enrollment CRUD operations and and all api links
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/RegistrationEnrollment",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Enrollment/RegistrationEnrollment",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //register enrollment
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/GetEnrollmentById",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/GetEnrollmentById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //Get enrollment by id
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/GetEnrollmentList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/GetEnrollmentList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get enrollment list
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/UpdateEnrollmentById",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/Enrollment/UpdateEnrollmentById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // update enrollment
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/DeleteEnrollmentById",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamPathTemplate": "/Enrollment/DeleteEnrollmentById",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, //delete enrollment
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/EnrollmentApproval_Admin",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/Enrollment/EnrollmentApproval_Admin",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // enrollment Approval by admin
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/AdmissionApprovalPending",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/AdmissionApprovalPending",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get enrollment Approval Pending
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/AdmissionApprovallList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/AdmissionApprovallList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get enrollment Approval List
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/AdmissionRejectedList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/AdmissionRejectedList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get enrollment Rejected List
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/GetActiveChild",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/GetActiveChild",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get Active Child profile
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/GetActiveChildCount",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/GetActiveChildCount",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get Active Child Count
+
+    {
+      "UpstreamPathTemplate": "/gateway/Enrollment/GetChildProfileandParent",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Enrollment/GetChildProfileandParent",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get Active Child profile
+
+
+    // class and slot api's
+
+    {
+      "UpstreamPathTemplate": "/gateway/Class/GetClassList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Class/GetClassList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get Class list
+
+    {
+      "UpstreamPathTemplate": "/gateway/Class/Create-Class",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Class/Create-Class",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Create Class
+
+    {
+      "UpstreamPathTemplate": "/gateway/Slot/GetslotList",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/Slot/GetslotList",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Get slot List
+
+    {
+      "UpstreamPathTemplate": "/gateway/Slot/Create-Slat",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/Slot/Create-Slat",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    }, // Create slot  
+
+    // Parent child relation
+
+    {
+      "UpstreamPathTemplate": "/gateway/ParentChilld/GetParentChildRelationship",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/ParentChilld/GetParentChildRelationship",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "child-care-crud.azurewebsites.net",
+          "Port": 443
+        }
+      ]
+    } // Get child using parent 
+
+  ]
+}

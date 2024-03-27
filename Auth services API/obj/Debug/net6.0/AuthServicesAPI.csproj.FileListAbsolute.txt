@@ -1,0 +1,186 @@
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\nlog.config
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\appsettings.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\libman.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesAPI.exe
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesAPI.deps.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesAPI.runtimeconfig.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesAPI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesAPI.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\IdentityModel.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\NLog.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesBAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthservicesDAL.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesIOC.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\businessServicess.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\ChildCareUtility.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesIOC.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesBAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthservicesDAL.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\businessServicess.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\bin\Debug\net6.0\ChildCareUtility.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.csproj.AssemblyReference.cache
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.AssemblyInfoInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.AssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.csproj.CoreCompileInputs.cache
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets\msbuild.AuthServicesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthServicesAPI.props
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthServicesAPI.props
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthServicesAPI.props
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\scopedcss\bundle\AuthServicesAPI.styles.css
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.csproj.CopyComplete
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\refint\AuthServicesAPI.dll
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.pdb
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\AuthServicesAPI.genruntimeconfig.cache
+D:\Entity Framework\IdentityAuthServicesAPI\IdentityAuthServicesAPI\obj\Debug\net6.0\ref\AuthServicesAPI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\nlog.config
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\appsettings.Development.json
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\appsettings.json
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\libman.json
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesAPI.exe
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesAPI.deps.json
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesAPI.runtimeconfig.json
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesAPI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesAPI.pdb
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AutoMapper.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Humanizer.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\IdentityModel.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\MySqlConnector.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\NLog.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesBAL.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthservicesDAL.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesIOC.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesUtility.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\businessServicess.dll
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesBAL.pdb
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesIOC.pdb
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthservicesDAL.pdb
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\AuthServicesUtility.pdb
+D:\childcareback_end_crud\Auth services API\bin\Debug\net6.0\businessServicess.pdb
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.csproj.AssemblyReference.cache
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.AssemblyInfoInputs.cache
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.AssemblyInfo.cs
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.csproj.CoreCompileInputs.cache
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets\msbuild.AuthServicesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthServicesAPI.props
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthServicesAPI.props
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthServicesAPI.props
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets.build.json
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\staticwebassets.development.json
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\scopedcss\bundle\AuthServicesAPI.styles.css
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.csproj.CopyComplete
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.dll
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\refint\AuthServicesAPI.dll
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.pdb
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\AuthServicesAPI.genruntimeconfig.cache
+D:\childcareback_end_crud\Auth services API\obj\Debug\net6.0\ref\AuthServicesAPI.dll
